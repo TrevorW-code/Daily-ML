@@ -2,8 +2,6 @@
 
 Daily ML projects to keep me from getting rusty.
 
-## Resources
-
 ## Daily Progress
 | Tutorial | Code |
 |:---:|:---:|
